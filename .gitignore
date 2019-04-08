@@ -4,6 +4,9 @@ __pycache__/
 *.py[icod]
 *$py.class
 
+# other large datasets to skip
+practical_ANN/mnist_train.csv
+
 # Latex extension
 *.a
 *.aux
